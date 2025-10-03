@@ -2,8 +2,9 @@
 <h3 align="center">Passionate about DSA, Competitive Programming, AIML, and Frontend Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Passionate+Developer;DSA+%7C+Competitive+Programming;AI%2FML+Learner;Frontend+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&lines=Learning+DSA;AI%2FML+Enthusiast;Frontend+Developer" alt="Typing Animation" />
 </p>
+
 
 ---
 
