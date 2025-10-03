@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://portfolio-seven-lovat-84.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link"/>
+    <img src="portfolio.gif" alt="Portfolio" width="150"/>
   </a>
 </p>
 
