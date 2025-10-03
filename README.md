@@ -18,18 +18,29 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/koushik satyavarapu" target="blank"><img src="https://img.shields.io/badge/-Koushik%20Satyavarapu-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/koushik_2808" target="blank"><img src="https://img.shields.io/badge/-koushik_2808-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/koushiksatyavarapu" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" /></a>
-<a href="https://leetcode.com/koushiksatyavarapu" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-<a href="https://auth.geeksforgeeks.org/user/koushiksatyavarapu" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/koushik-satyavarapu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/koushik_2808" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+  </a>
+  <a href="https://codeforces.com/profile/koushiksatyavarapu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" />
+  </a>
+  <a href="https://leetcode.com/koushiksatyavarapu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/koushiksatyavarapu" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="50" />
+  </a>
 </p>
+
 
 ---
 
 <h3 align="center">⚒️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mongodb,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mongodb,mysql,git&perline=8" />
 </p>
 
 ---
@@ -45,17 +56,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-satyavarapu&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushik-satyavarapu&theme=darkhub&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=koushik-satyavarapu&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
 </p>
