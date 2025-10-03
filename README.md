@@ -6,6 +6,13 @@
 </p>
 
 
+
+<p align="center">
+  <a href="https://portfolio-seven-lovat-84.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link"/>
+  </a>
+</p>
+
 ---
 
 - 🔭 I’m currently working on [NewsPulse - News Trend Analyzer Using AI](https://github.com/Koushik-Satyavarapu/NewsPulse.git)  
