@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://portfolio-seven-lovat-84.vercel.app/" target="_blank">
+  <a href="https://koushiksatyavarapu.vercel.app/" target="_blank">
     <img src="portfolio.gif" alt="Portfolio" width="150"/>
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [NewsPulse - News Trend Analyzer Using AI](https://github.com/Koushik-Satyavarapu/NewsPulse.git)  
 - 🌱 I’m currently learning **AI/ML, DSA, and React**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-seven-lovat-84.vercel.app/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://koushiksatyavarapu.vercel.app/)  
 - 💬 Ask me about **DSA, C++, React, and basics of AI/ML**  
 - 📫 Reach me at **koushik.satyavarapu@gmail.com**  
 - ⚡ Fun fact: **I’m a night owl 🌙**  
